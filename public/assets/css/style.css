@@ -1,0 +1,14 @@
+body {
+  width: 99%;
+  height: 900px;
+}
+
+.text-center {
+    margin: auto;
+}
+
+border-width: 3px;
+}
+.button-size {
+	padding-bottom: 20px;
+}

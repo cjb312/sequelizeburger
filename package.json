@@ -1,0 +1,20 @@
+{
+  "name": "sequelizeburger",
+  "version": "1.0.0",
+  "description": "sequelize burger",
+  "main": "server.js",
+  "dependencies": {
+    "express-handlebars": "^2.0.1",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+  
